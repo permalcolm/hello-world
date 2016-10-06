@@ -1,2 +1,5 @@
 # hello-world
-First repository
+
+Hello music lovers!
+Grand master Perry here...
+Trying to master the git world even.
